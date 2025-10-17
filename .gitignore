@@ -1,0 +1,11 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+*.log
+*.tmp
